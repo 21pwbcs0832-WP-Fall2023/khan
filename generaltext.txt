@@ -1,0 +1,1 @@
+I use globle attribute in the react project which is contentEditable and value is true.
